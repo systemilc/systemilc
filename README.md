@@ -13,7 +13,7 @@ Desenvolvedor de Software Back-end | Node.js | Typescript | SQL | PostgreSQL | G
   - LinkedIn: [linkedin.com/in/isaac-lages-costa](https://www.linkedin.com/in/isaac-lages-costa)
   - Site Corporativo: [systemilc.com.br](https://systemilc.com.br)
   - Portfólio GitHub: [github.com/systemilc](https://github.com/systemilc)
-  - Portfólio Pessoal: [systemilc.github.io/portifolio/](https://systemilc.github.io/portifolio/)
+  - Portfólio Pessoal: [systemilc.github.io/portifolio/](https://systemilc.github.io/portifolio/) 
 
 ### Sobre Mim
 Minha paixão pela tecnologia começou quando eu era adolescente e meu tio, que era programador no Departamento do Sistema Prisional, me presenteou com meu primeiro computador. Desde então, sempre fui curioso, desmontando e montando o computador para entender seu funcionamento.
