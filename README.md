@@ -2,12 +2,18 @@
 Desenvolvedor de Software Back-end | Node.js | Typescript | SQL | PostgreSQL | Git | React.JS | Wordpress | Scrum
 
 ### Informações de Contato
-- **LinkedIn:** [linkedin.com/in/isaac-lages-costa](https://www.linkedin.com/in/isaac-lages-costa)
-- **Site Corporativo:** [systemilc.com.br](https://systemilc.com.br)
-- **Portfólio GitHub:** [github.com/systemilc](https://github.com/systemilc)
-- **Portfólio Pessoal:** [systemilc.github.io/portifolio/](https://systemilc.github.io/portifolio/)
-- **Telefone:** +55 31 98104-1776
-- **E-mail:** isaac.systemilc@gmail.com
+- 👋 Olá, sou @systemilc (Isaac Costa)
+- 👀 Eu sou interessado em tudo o que é relacionado a tecnologia, apaixonado por desafios.
+- 🌱 Atualmente estou estudando na Resilia, inicialmente HTML / CSS
+- 💞️ Procuro colaborar e também para ser ajudado
+- 📫 Contate-me através do WhatsApp ou e-mail
+  - ✆ (31) 9 8104-1776
+  - 📧 isaac.systemilc@gmail.com
+- 🌐 Conheça mais sobre mim:
+  - LinkedIn: [linkedin.com/in/isaac-lages-costa](https://www.linkedin.com/in/isaac-lages-costa)
+  - Site Corporativo: [systemilc.com.br](https://systemilc.com.br)
+  - Portfólio GitHub: [github.com/systemilc](https://github.com/systemilc)
+  - Portfólio Pessoal: [systemilc.github.io/portifolio/](https://systemilc.github.io/portifolio/)
 
 ### Sobre Mim
 Minha paixão pela tecnologia começou quando eu era adolescente e meu tio, que era programador no Departamento do Sistema Prisional, me presenteou com meu primeiro computador. Desde então, sempre fui curioso, desmontando e montando o computador para entender seu funcionamento.
