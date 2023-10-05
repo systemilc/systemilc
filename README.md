@@ -62,4 +62,4 @@ Estou em busca de oportunidades como desenvolvedor, onde possa crescer e contrib
 ![DRE](https://img.shields.io/badge/DRE-008000?logo=dre&logoColor=white) 
 ![Instalação de Computadores](https://img.shields.io/badge/Instala%C3%A7%C3%A3o%20de%20Computadores-006400?logo=computer-installation&logoColor=white) 
 ![Trabalho em Grupo](https://img.shields.io/badge/Trabalho%20em%20Grupo-FF69B4?logo=group-work&logoColor=white) 
-![Trabalho em Equipe
+![Trabalho em Equipe](https://img.shields.io/badge/Trabalho%20em%20Equipe-87CEEB?logo=teamwork&logoColor=white)
