@@ -26,6 +26,9 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white) 
 ![Access](https://img.shields.io/badge/Access-A4373A?logo=microsoft-access&logoColor=white)
 
+### Documentação de API:
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
+
 ## Sobre Mim
 
 Minha paixão pela tecnologia começou quando eu era adolescente e meu tio, que era programador no Departamento do Sistema Prisional, me presenteou com meu primeiro computador. Desde então, sempre fui curioso, desmontando e montando o computador para entender seu funcionamento.
@@ -59,4 +62,4 @@ Estou em busca de oportunidades como desenvolvedor, onde possa crescer e contrib
 ![DRE](https://img.shields.io/badge/DRE-008000?logo=dre&logoColor=white) 
 ![Instalação de Computadores](https://img.shields.io/badge/Instala%C3%A7%C3%A3o%20de%20Computadores-006400?logo=computer-installation&logoColor=white) 
 ![Trabalho em Grupo](https://img.shields.io/badge/Trabalho%20em%20Grupo-FF69B4?logo=group-work&logoColor=white) 
-![Trabalho em Equipe](https://img.shields.io/badge/Trabalho%20em%20Equipe-87CEEB?logo=teamwork&logoColor=white)
+![Trabalho em Equipe
