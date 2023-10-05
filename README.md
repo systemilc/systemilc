@@ -43,6 +43,8 @@ Estou em busca de oportunidades como desenvolvedor, onde possa crescer e contrib
 - Localização: Vespasiano, Minas Gerais, Brasil
 - Na Web Cosméticos, desenvolvi a plataforma de comércio eletrônico e adquiri habilidades em liderança, comunicação com o público, gestão de vendas e resolução de problemas.
 
+Desenvolvedor de Software Back-end | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-CC2927?logo=mysql&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) | Git | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white) | ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white) | Scrum
+
 ### Competências
 - Desenvolvimento de Back-end
 - SQL
