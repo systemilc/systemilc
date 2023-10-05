@@ -44,7 +44,7 @@ Estou em busca de oportunidades como desenvolvedor, onde possa crescer e contrib
 - Na Web Cosméticos, desenvolvi a plataforma de comércio eletrônico e adquiri habilidades em liderança, comunicação com o público, gestão de vendas e resolução de problemas.
 
 Desenvolvedor de Software Back-end
-![Back-end](https://img.shields.io/badge/Back--end-333333?logo=backend&logoColor=white) | 
+
 ![SQL](https://img.shields.io/badge/SQL-CC2927?logo=mysql&logoColor=white) | 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white) | 
 ![Opencart](https://img.shields.io/badge/OpenCart-FF6600?logo=opencart&logoColor=white) | 
