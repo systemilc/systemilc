@@ -1,4 +1,4 @@
-## Isaac Lages da Costa
+# Isaac Lages da Costa
 Desenvolvedor de Software Back-end | Node.js | Typescript | SQL | PostgreSQL | Git | React.JS | Wordpress | Scrum
 
 ### Informações de Contato
@@ -43,30 +43,49 @@ Estou em busca de oportunidades como desenvolvedor, onde possa crescer e contrib
 - Localização: Vespasiano, Minas Gerais, Brasil
 - Na Web Cosméticos, desenvolvi a plataforma de comércio eletrônico e adquiri habilidades em liderança, comunicação com o público, gestão de vendas e resolução de problemas.
 
-Desenvolvedor de Software Back-end
+## Desenvolvedor de Software Back-end
 
-![SQL](https://img.shields.io/badge/SQL-CC2927?logo=mysql&logoColor=white) | 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white) | 
-![Opencart](https://img.shields.io/badge/OpenCart-FF6600?logo=opencart&logoColor=white) | 
-![Atendimento ao Cliente](https://img.shields.io/badge/Atendimento%20ao%20Cliente-00A3E0?logo=customer-service&logoColor=white) | 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) | 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white) | 
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) | 
-![React.js](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white) | 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | 
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) | 
-![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white) | 
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white) | 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) | 
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) | 
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white) | 
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) | 
-![Gestão Comercial](https://img.shields.io/badge/Gest%C3%A3o%20Comercial-00BFFF?logo=management&logoColor=white) | 
-![Comunicação Empresarial](https://img.shields.io/badge/Comunica%C3%A7%C3%A3o%20Empresarial-008B8B?logo=communication&logoColor=white) | 
-![Resolução de Conflitos](https://img.shields.io/badge/Resolu%C3%A7%C3%A3o%20de%20Conflitos-FF4500?logo=conflict-resolution&logoColor=white) | 
-![Resolução de Problemas](https://img.shields.io/badge/Resolu%C3%A7%C3%A3o%20de%20Problemas-FFD700?logo=problem-solving&logoColor=black) | 
-![DRE](https://img.shields.io/badge/DRE-008000?logo=dre&logoColor=white) | 
-![Instalação de Computadores](https://img.shields.io/badge/Instala%C3%A7%C3%A3o%20de%20Computadores-006400?logo=computer-installation&logoColor=white) | 
-![Trabalho em Grupo](https://img.shields.io/badge/Trabalho%20em%20Grupo-FF69B4?logo=group-work&logoColor=white) | 
+### Linguagens de Programação e Frameworks:
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) 
+![React.js](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+
+### Bancos de Dados:
+![SQL](https://img.shields.io/badge/SQL-CC2927?logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+
+### Plataformas e CMS:
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white) 
+![Opencart](https://img.shields.io/badge/OpenCart-FF6600?logo=opencart&logoColor=white)
+
+### Ferramentas de Escritório:
+![Word](https://img.shields.io/badge/Word-2B579A?logo=microsoft-word&logoColor=white) 
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white) 
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white) 
+![Access](https://img.shields.io/badge/Access-A4373A?logo=microsoft-access&logoColor=white)
+
+### Design Gráfico:
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white)
+
+### Controle de Versão e Colaboração:
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+### Gestão Empresarial e Comunicação:
+![Gestão Comercial](https://img.shields.io/badge/Gest%C3%A3o%20Comercial-00BFFF?logo=management&logoColor=white) 
+![Comunicação Empresarial](https://img.shields.io/badge/Comunica%C3%A7%C3%A3o%20Empresarial-008B8B?logo=communication&logoColor=white)
+
+### Resolução de Conflitos e Problemas:
+![Resolução de Conflitos](https://img.shields.io/badge/Resolu%C3%A7%C3%A3o%20de%20Conflitos-FF4500?logo=conflict-resolution&logoColor=white) 
+![Resolução de Problemas](https://img.shields.io/badge/Resolu%C3%A7%C3%A3o%20de%20Problemas-FFD700?logo=problem-solving&logoColor=black)
+
+### Outras Habilidades:
+![DRE](https://img.shields.io/badge/DRE-008000?logo=dre&logoColor=white) 
+![Instalação de Computadores](https://img.shields.io/badge/Instala%C3%A7%C3%A3o%20de%20Computadores-006400?logo=computer-installation&logoColor=white) 
+![Trabalho em Grupo](https://img.shields.io/badge/Trabalho%20em%20Grupo-FF69B4?logo=group-work&logoColor=white) 
 ![Trabalho em Equipe](https://img.shields.io/badge/Trabalho%20em%20Equipe-87CEEB?logo=teamwork&logoColor=white)
 
